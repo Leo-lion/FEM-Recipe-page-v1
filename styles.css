@@ -185,6 +185,7 @@
 .section-instructions ol li::marker {
   color: var(--brandy-red, #854632);
   font-family: inherit;
+  font:normal 400 1rem/1.5 "Outfit", "Arial", sans-serif;
   font-size: inherit;
   font-style: inherit;
   font-weight: 700;
